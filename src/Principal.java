@@ -35,7 +35,7 @@ public class Principal {
 		receita1.setTratamento("Via oral");
 		receita1.setMedicacao("Domperidona");
 		receita1.setExame("Raio-x do Pulmão");
-		receita1.setPrescricao("Tomar 5 gotas de 8/8h");
+		receita1.setPrescricao("Repouso Absoluto");
 		
 		
 		
