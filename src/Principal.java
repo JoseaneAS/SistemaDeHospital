@@ -85,9 +85,11 @@ public class Principal {
 		System.out.println("MEDICAÇÃO: " + receita1.getMedicacao());
 		System.out.println("PRESCRIÇÃO MÉDICA: " + receita1.getPrescricao());
 		System.out.println("EXAME: " + receita1.getExame());
-		System.out.println("------------------------------------------");	
+		System.out.println("------------------------------------------");		
+		System.out.println("      [Cadastro realizado com sucesso]");
+		System.out.println("    VOLTE SEMPRE AO HOSPITAL UNIFAMETRO");
+		System.out.println("------------------------------------------");
 		
 
 	}
-
 }
